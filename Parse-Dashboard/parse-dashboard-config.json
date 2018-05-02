@@ -1,22 +1,14 @@
 {
   "apps": [{
-    "serverURL": "",
-    "appId": "",
-    "masterKey": "",
-    "appName": "",
+    "serverURL": "https://pizza-demo-w4d2.herokuapp.com/parse",
+    "appId": "myAppId",
+    "masterKey": "myMasterKey",
+    "appName": "Pizza",
     "iconName": "",
+    "production": "true",
     "primaryBackgroundColor": "",
     "secondaryBackgroundColor": ""
-  },
-          
-          {
-            "serverURL": "https://pizza-demo-w4d2.herokuapp.com/parse",
-            "appId": "myAppId",
-            "masterKey": "myMasterKey",
-            "appName": "Pizza Demo",
-            "iconName": "",
-            "production": "true"
-          }],
+  }],
   "users": [
    {
     "user":"pizza guy",
