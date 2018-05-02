@@ -14,7 +14,7 @@
             "appId": "myAppId",
             "masterKey": "myMasterKey",
             "appName": "Pizza Demo",
-            "iconName": ""
+            "iconName": "",
             "production": "true"
           }],
   "users": [
