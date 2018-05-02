@@ -17,5 +17,11 @@
             "iconName": ""
             "production": "true"
           }],
+  "users": [
+   {
+    "user":"pizza guy",
+    "pass":"pass"
+   }
+  ],
   "iconsFolder": "icons"
 }
