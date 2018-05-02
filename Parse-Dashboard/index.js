@@ -63,14 +63,6 @@ if (!program.config && !process.env.PARSE_DASHBOARD_CONFIG) {
             masterKey: configMasterKey,
             appName: configAppName,
           },
-          {
-            "serverURL": "https://pizza-demo-w4d2.herokuapp.com/parse",
-            "appId": "myAppId",
-            "masterKey": "myMasterKey",
-            "appName": "Pizza Demo",
-            "iconName": ""
-            "production": "true"
-          }
         ]
       }
     };
